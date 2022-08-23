@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ahmad Mustafa"
+title                    : "Ahmad Mustafa"
 title_separator          : "-"
 name                     : &name "Dr. Ahmad Mustafa"
 description              : &description "Assistant Professor at Jordan University of Science and Technology"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Ahmad Mustafa"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Jordan University of Science and Technology, teaching Data Science for graduates and undergraduate students"
+  bio              : "Assistant Professor at Jordan University of Science and Technology"
   location         : "Jordan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
