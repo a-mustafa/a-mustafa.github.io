@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
-About me
-------
 An Assistant Professor in Data Science at Jordan University of Science and Technology. My research interests lie in Machine Learning and its applications in Healthcare, Natural Langauge Processing, Computer Vision, and Cybersecurity. My primary areas of emphasis are Deep learning and enhancing the accessibility of large machine learning models. I tackle the challenges associated with their training, labeling, deployment, usage, and understanding. As a practitioner and educator, I actively engage in research, exploring innovative methodologies and applications that contribute to the evolving landscape of data science. 
 
 Education
