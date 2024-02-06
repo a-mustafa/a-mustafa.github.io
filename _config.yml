@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmad Mustafa's Homepage"
+title                    : "Dr. Ahmad Mustafa"
 title_separator          : "-"
 name                     : &name "Ahmad Mustafa"
 description              : &description "Assistant Professor at Jordan University of Science and Technology  || Machine Learning"
