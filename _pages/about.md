@@ -1,16 +1,16 @@
 
 About me
-======
+------
 An Assistant Professor in Data Science at Jordan University of Science and Technology. My research interests lie in Machine Learning and its applications in Healthcare, Natural Langauge Processing, Computer Vision, and Cybersecurity. My primary areas of emphasis are Deep learning and enhancing the accessibility of large machine learning models. I tackle the challenges associated with their training, labeling, deployment, usage, and understanding. As a practitioner and educator, I actively engage in research, exploring innovative methodologies and applications that contribute to the evolving landscape of data science. 
 
 Education
-======
+------
 - PhD in Computer Science, 2018, The University of Texas at Dallas, USA
 - Msc. in Computer Science, 2010, Jordan University of Science and Technology, Jordan
 - Bsc. in Computer Information Systems, 2007, Yarmouk University, Jordan
 
 Teaching
-=====
+------
 **Master Courses:**
 - DATA ANALYTICS
 - DATA EXPLORATION AND VISUALIZATION
@@ -26,7 +26,7 @@ Teaching
 - Cloud computing
 
 EXPERIENCE
-====
+------
 - Assistant Dean, Assistant Dean, 2023 - Present
 - Faculty Member, Computer Information System Department, 2019 - Present
 
